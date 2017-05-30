@@ -30,7 +30,7 @@ Cada sub conjunto de datos (training-set o test-set) tiene la siguiente estructu
 ```
 Donde
 * `subset`: es `training-set` o `test-set`
-* `class_id`: es el identificador de una clase, e.g. 0, 2, ..., 9
+* `class_id`: es el identificador de una clase, e.g. 0, 1, 2, ..., 9
 * `image_id`: es el nombre de una imagen.
 
 ### Variables
